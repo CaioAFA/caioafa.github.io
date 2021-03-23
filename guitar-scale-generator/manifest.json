@@ -1,11 +1,11 @@
 {
-    "name": "guitar_scale_generator",
-    "short_name": "guitar_scale_generator",
+    "name": "Guitar Scale Generator",
+    "short_name": "Guitar Scale Generator",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Gerador de Escalas de Guitarra / Violão",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
